@@ -1,3 +1,11 @@
+<h1 align="center">
 # Calculator-main
+</h1>
 
-<img src="(https://github.com/ifrimaos/Calculator-main/blob/master/img/2.png)" width="600" height="300">
+<p align="center">
+<img src="img/1.png" width="700">
+</p>
+
+<p align="center">
+<img src="img/2.png" width="700">
+</p>
